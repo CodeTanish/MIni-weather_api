@@ -1,0 +1,28 @@
+.app {
+    text-align: center;
+    padding: 2rem;
+    background: #282c34;
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .input-section {
+    margin: 1rem;
+  }
+  
+  input {
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  button {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .weather {
+    margin-top: 2rem;
+  }
+  
